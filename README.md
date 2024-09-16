@@ -1,12 +1,10 @@
--  Hi there👋
-- I’m Maria Clara Bueno Rodrigues ⚡❤️
--  👀 I’m studying on Alura https://www.alura.com.br/ 
-- 🌱 I’m currently learning to develop the Javascript language 
-- 📑 I utilize this space for my organization and sharement of my developed projects
--  Você pode entrar em contato comigo 📫
-
-   alurastartestudante@email.com
-
+-  # Hi there👋
+-  I’m Maria Clara Bueno Rodrigues ⚡❤️
+-   👀 I’m studying on Alura https://www.alura.com.br/ 
+-  🌱 I’m currently learning to develop the Javascript language 
+-  📑 I utilize this space for my organization and sharement of my developed projects
+-  # Você pode entrar em contato comigo 📫
+ 
  @alurastartestudante
  😄💖
  
